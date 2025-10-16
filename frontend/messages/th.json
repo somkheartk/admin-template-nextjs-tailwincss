@@ -1,0 +1,71 @@
+{
+  "common": {
+    "dashboard": "แดชบอร์ด",
+    "products": "สินค้า",
+    "orders": "คำสั่งซื้อ",
+    "users": "ผู้ใช้",
+    "settings": "ตั้งค่า",
+    "logout": "ออกจากระบบ",
+    "login": "เข้าสู่ระบบ",
+    "register": "ลงทะเบียน",
+    "profile": "โปรไฟล์",
+    "search": "ค้นหา",
+    "add": "เพิ่ม",
+    "edit": "แก้ไข",
+    "delete": "ลบ",
+    "save": "บันทึก",
+    "cancel": "ยกเลิก",
+    "actions": "การดำเนินการ",
+    "status": "สถานะ",
+    "name": "ชื่อ",
+    "email": "อีเมล",
+    "password": "รหัสผ่าน",
+    "role": "บทบาท",
+    "loading": "กำลังโหลด...",
+    "error": "ข้อผิดพลาด",
+    "success": "สำเร็จ"
+  },
+  "dashboard": {
+    "title": "แดชบอร์ดจัดการคลังสินค้า",
+    "totalProducts": "สินค้าทั้งหมด",
+    "totalOrders": "คำสั่งซื้อทั้งหมด",
+    "pendingOrders": "คำสั่งซื้อที่รอดำเนินการ",
+    "revenue": "รายได้"
+  },
+  "products": {
+    "title": "สินค้า",
+    "addProduct": "เพิ่มสินค้า",
+    "editProduct": "แก้ไขสินค้า",
+    "deleteProduct": "ลบสินค้า",
+    "productName": "ชื่อสินค้า",
+    "sku": "รหัสสินค้า",
+    "price": "ราคา",
+    "quantity": "จำนวน",
+    "category": "หมวดหมู่",
+    "description": "รายละเอียด"
+  },
+  "orders": {
+    "title": "คำสั่งซื้อ",
+    "orderNumber": "หมายเลขคำสั่งซื้อ",
+    "customer": "ลูกค้า",
+    "total": "ยอดรวม",
+    "status": "สถานะ",
+    "date": "วันที่",
+    "pending": "รอดำเนินการ",
+    "processing": "กำลังดำเนินการ",
+    "shipped": "จัดส่งแล้ว",
+    "delivered": "ส่งสำเร็จ",
+    "cancelled": "ยกเลิก"
+  },
+  "auth": {
+    "loginTitle": "เข้าสู่ระบบบัญชีของคุณ",
+    "registerTitle": "สร้างบัญชีใหม่",
+    "emailPlaceholder": "กรอกอีเมล",
+    "passwordPlaceholder": "กรอกรหัสผ่าน",
+    "namePlaceholder": "กรอกชื่อ",
+    "loginButton": "เข้าสู่ระบบ",
+    "registerButton": "ลงทะเบียน",
+    "noAccount": "ยังไม่มีบัญชี?",
+    "hasAccount": "มีบัญชีอยู่แล้ว?"
+  }
+}
