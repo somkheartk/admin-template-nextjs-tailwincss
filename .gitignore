@@ -61,3 +61,4 @@ selenium-screenshot-*.png
 *.temp
 *.old
 .backup
+backend/.env
